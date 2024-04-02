@@ -1,4 +1,3 @@
-// Akshita Agarwal: E23CSEU1875
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
